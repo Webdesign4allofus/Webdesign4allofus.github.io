@@ -1,2 +1,2 @@
 # Webdesign4allofus.github.io
-This is the Webdesign section for all of us
+The Website for Web Design for all of us!
